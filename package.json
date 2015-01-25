@@ -1,0 +1,29 @@
+{
+  "name": "vdom-benchmark-base",
+  "version": "0.1.0",
+  "description": "Virtual DOM Benchmark Base library",
+  "license": "BSD",
+  "homepage": "https://github.com/localvoid/vdom-benchmark-base",
+  "repository": "https://github.com/localvoid/vdom-benchmark-base",
+  "author": {
+    "name": "Boris Kaul",
+    "email": "localvoid@gmail.com",
+    "url": "https://github.com/localvoid"
+  },
+  "keywords": [
+    "virtual",
+    "dom",
+    "virtualdom",
+    "vdom",
+    "diff",
+    "browser",
+    "benchmark",
+    "vdom-benchmark"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
