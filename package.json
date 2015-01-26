@@ -1,6 +1,6 @@
 {
   "name": "vdom-benchmark-base",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Virtual DOM Benchmark Base library",
   "license": "BSD",
   "homepage": "https://github.com/localvoid/vdom-benchmark-base",
