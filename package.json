@@ -1,10 +1,10 @@
 {
   "name": "vdom-benchmark-base",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Virtual DOM Benchmark Base library",
   "license": "BSD",
-  "homepage": "https://github.com/localvoid/vdom-benchmark-base",
-  "repository": "https://github.com/localvoid/vdom-benchmark-base",
+  "homepage": "https://github.com/vdom-benchmark/vdom-benchmark-base",
+  "repository": "https://github.com/vdom-benchmark/vdom-benchmark-base",
   "author": {
     "name": "Boris Kaul",
     "email": "localvoid@gmail.com",
